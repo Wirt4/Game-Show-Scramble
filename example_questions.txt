@@ -1,0 +1,181 @@
+=================================
+DECISIONS : $1000
+
+These symbols, including “==”, “<”, and “>=”, are necessary for comparing two operands in the condition of an if-statement.
+
+What are relational operators?
+=================================
+STRINGS : $400
+
+No need to check the back of the book for this. Using 	brackets ,	[], to select a character from a string is called this 	operation.
+
+What is indexing?
+=================================
+PRINTING : $600
+
+Nothing to do with ink-jet machines, this built-in function automatically ends strings with a newline statement unless told otherwise.
+
+What is print()?
+=================================
+PYTHON BASICS : $1000
+
+Python is not a compiled language. Instead, this parsing program analyzes and executes the code instruction-by-instruction.
+
+What is an interpreter?
+=================================
+PYTHON BASICS : $200
+
+Naming a script with this extension means your code will run as intended. In fact, it’s as easy as ...this.
+
+What is .py?
+=================================
+DATA TYPES : $400
+
+This data type can store both the whole and fractional part of a number (it can also be inexact in some cases).
+
+What is a float?
+=================================
+PYTHON BASICS : $400
+
+These lines of text aren’t read by the interpreter, and you can use them to document the code so other programmers won’t “#” the keyboard in frustration.
+
+What is a comment?
+=================================
+DATA TYPES : $1000
+
+“2 + 2”! This built-in function may be used to treat this string as math expression.
+
+What is eval()?
+=================================
+PRINTING : $400
+
+This optional argument allows the programmer to change the 	default “\n” that print() adds to end of its primary argument.
+
+what is end?
+=================================
+DATA TYPES : $800
+
+The American Standard Code for Information Interchange(ASCII) system uses 127 bit codes for the numerical values for this data type.
+
+What is a character?
+=================================
+DATA TYPES : $600
+
+Not a “Star Trek” alien, this data type store either a “True” or “False” value.
+
+What is a boolean?
+=================================
+LOOPS : $400
+
+Why don’t you sit down and wait?” This kind of loop repeats a block of code an unknown number of times until a condition is met.
+
+What is a while loop?
+=================================
+STRINGS : $1000
+
+Not only does ‘d’ precede ‘f’, but ‘Z’ precedes ‘a’ thanks to this order.
+
+What is lexicographical order?
+=================================
+PYTHON BASICS : $600
+
+Named for the 9th century mathematician  Al-Khwarismi, this is a step-by-step process for achieving the desired result.
+
+What is an algorithm?
+=================================
+PRINTING : $1000
+
+You can print the same thing over and over again using the * operator, also known as this.
+
+What is repetition?
+=================================
+STRINGS : $600
+
+“2” +”2” makes “22” because of this string operation.
+
+What is concatenation?
+=================================
+STRINGS : $800
+
+Selecting a substring can be selected from a larger string using brackets and colon, [<start>:<end>], is called this operation.
+
+What is slicing?
+=================================
+PYTHON BASICS : $800
+
+Python’s default Integration Development Environment is also known as this, for short.
+
+What is IDLE?
+=================================
+DECISIONS : $200
+
+Python is a block-structured language, which means this kind of 	spacing for if-statements is syntactically required.
+
+What is indentation?
+=================================
+LOOPS : $200
+
+This construct comprises an inner lop and an outer loop.
+
+What is a nested for-loop?
+=================================
+DATA TYPES : $200
+
+This sequence of characters enclosed in quotes is a valuable data type for saving written information.
+
+What is a string?
+=================================
+STRINGS : $200
+
+Not taught by Stanislavsky, isupper(), isdigit(), replace() and 	lower() are functions built into Python’s string class, also 	known as these.
+
+What are methods?
+=================================
+LOOPS : $1000
+
+Like preparing a water pump, reading the first sentinel value before a loop starts is also called this.
+
+What is a priming read?
+=================================
+DECISIONS : $800
+
+Go with this, a handy diagram for visualizing decisions. 
+
+What is a flowchart?
+=================================
+DECISIONS : $600
+
+If you want clean code for a multi-way decision, you’d use this one-word construct, else if you don’t mind multiple nested if-else statements, you’d do without.
+
+What is elif?
+=================================
+LOOPS : $800
+
+It’s not an X-Men robot. This is the special value that signals to end the loop.
+
+What is a sentinel?
+=================================
+DECISIONS : $400
+
+The branches of this structure may contain additional if-	statements.
+
+What is a nested if-statement?
+=================================
+PRINTING : $200
+
+This optional argument allows the programmer to change print()’s 	default separator.
+
+What is sep?
+=================================
+PRINTING : $800
+
+When you send more than one item to print, such as print( a, b, c ), Python puts a space between each item, also known as this.
+
+What is the separator?
+=================================
+LOOPS : $600
+
+This loop allows a block of code to be repeated a set number of times. The sequence its variable iterates through may be a string, a file, a list or a range of numbers.
+
+What is a for loop?
+=================================

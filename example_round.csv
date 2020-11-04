@@ -1,0 +1,30 @@
+Data Types,This sequence of characters enclosed in quotes is a valuable data type for saving written information.,What is a string?
+Data Types,This data type can store both the whole and fractional part of a number (it can also be inexact in some cases).,What is a float?
+Data Types,"Not a “Star Trek” alien, this data type store either a “True” or “False” value.",What is a boolean?
+Data Types,The American Standard Code for Information Interchange(ASCII) system uses 127 bit codes for the numerical values for this data type.,What is a character?
+Data Types,“2 + 2”! This built-in function may be used to treat this string as math expression.,What is eval()?
+Decisions,"Python is a block-structured language, which means this kind of 	spacing for if-statements is syntactically required.",What is indentation?
+Decisions,The branches of this structure may contain additional if-	statements.,What is a nested if-statement?
+Decisions,"If you want clean code for a multi-way decision, you’d use this one-word construct, else if you don’t mind multiple nested if-else statements, you’d do without.",What is elif?
+Decisions,"Go with this, a handy diagram for visualizing decisions. ",What is a flowchart?
+Decisions,"hese symbols, including “==”, “<”, and “>=”, are necessary for comparing two operands in the condition of an if-statement.",What are relational operators?
+Loops,This construct comprises an inner lop and an outer loop.,What is a nested for-loop?
+Loops,Why don’t you sit down and wait?” This kind of loop repeats a block of code an unknown number of times until a condition is met.,What is a while loop?
+Loops,"This loop allows a block of code to be repeated a set number of times. The sequence its variable iterates through may be a string, a file, a list or a range of numbers.",What is a for loop?
+Loops,It’s not an X-Men robot. This is the special value that signals to end the loop.,What is a sentinel?
+Loops,"Like preparing a water pump, reading the first sentinel value before a loop starts is also called this.",What is a priming read?
+Printing,This optional argument allows the programmer to change print()’s 	default separator.,What is sep?
+Printing,This optional argument allows the programmer to change the 	default “\n” that print() adds to end of its primary argument.,what is end?
+Printing,"Nothing to do with ink-jet machines, this built-in function automatically ends strings with a newline statement unless told otherwise.",What is print()?
+Printing,"When you send more than one item to print, such as print( a, b, c ), Python puts a space between each item, also known as this.",What is the separator?
+Printing,"You can print the same thing over and over again using the * operator, also known as this.",What is repetition?
+Python Basics,"Naming a script with this extension means your code will run as intended. In fact, it’s as easy as ...this.",What is .py?
+Python Basics,"These lines of text aren’t read by the interpreter, and you can use them to document the code so other programmers won’t “#” the keyboard in frustration.",What is a comment?
+Python Basics,"Named for the 9th century mathematician  Al-Khwarismi, this is a step-by-step process for achieving the desired result.",What is an algorithm?
+Python Basics,"Python’s default Integration Development Environment is also known as this, for short.",What is IDLE?
+Python Basics,"Python is not a compiled language. Instead, this parsing program analyzes and executes the code instruction-by-instruction.",What is an interpreter?
+Strings,"Not taught by Stanislavsky, isupper(), isdigit(), replace() and 	lower() are functions built into Python’s string class, also 	known as these.",What are methods?
+Strings,"No need to check the back of the book for this. Using 	brackets ,	[], to select a character from a string is called this 	operation.",What is indexing?
+Strings,“2” +”2” makes “22” because of this string operation.,What is concatenation?
+Strings,"Selecting a substring can be selected from a larger string using brackets and colon, [<start>:<end>], is called this operation.",What is slicing?
+Strings,"Not only does ‘d’ precede ‘f’, but ‘Z’ precedes ‘a’ thanks to this order.",What is lexicographical order?
